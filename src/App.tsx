@@ -1,14 +1,14 @@
 import React from 'react';
 import "./resource/style/App.css";
-import Head from "./page/Head";
-import Container from "./page/Container";
+import Head from "./components/Head";
+import Wrapper from "./components/Home/Wrapper";
 
 function App() {
 
     return (
         <>
             <Head />
-            <Container />
+            <Wrapper />
         </>
     );
 }

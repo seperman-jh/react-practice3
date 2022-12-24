@@ -2,3 +2,10 @@ html {
     margin:0;
     padding:0;
 }
+
+.main_bg {
+    height:300px;
+    background-size:cover;
+    background-position:center;
+    background-image: url("../image/cosmos-1853491.jpg");
+}
